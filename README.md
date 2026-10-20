@@ -110,14 +110,6 @@ Running the pipeline produces:
 - **Worst-affected states** — high outage durations cluster in states with
   dense thermal capacity and constrained transmission corridors.
 
-### Trends & Seasonality
-
-- Year-to-year variability with occasional spikes tied to major forced
-  events and maintenance cycles.
-- Seasonal peaks during pre-monsoon and monsoon months, driven by
-  weather-related transmission failures and load stress.
-- Gradual improvement in certain regions where targeted asset reinvestment
-  occurred.
 
 **Recommended next step:** time-series decomposition and change-point
 detection to isolate structural shifts and quantify the impact of
